@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="600" height="450" src="result_sample.png" alt="ViT" title="ViT">
+  <img width="680" height="450" src="result_sample.png" alt="ViT" title="ViT">
 </p>
 
 ## Introduction
