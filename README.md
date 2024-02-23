@@ -49,6 +49,17 @@ To run segmentation using CNN, specify the desired dataset `{dataset}` (which ca
 ```
 python segmentation_cnn_{dataset}.py
 ```
+## Citation
+Please cite our work if you use it in your research:
+```
+@article{Barkan2023DeepIE,
+  title={Deep Integrated Explanations},
+  author={Oren Barkan and Yehonatan Elisha and Jonathan Weill and Yuval Asher and Amit Eshel and Noam Koenigstein},
+  journal={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:264350356}
+}
+```
 
 ## Credits
 For comparison, we used the following implementations of code from git repositories:
